@@ -1,0 +1,149 @@
+body{
+    margin: 0px;
+}
+
+.wrapper{
+    background-image: url('images/img\(1\).jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1000px;
+ }
+ 
+ .container {
+     display: grid;
+     grid-template-columns: 1fr;
+ }
+
+ .nav-top{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.nav-top-left{
+    display: flex;
+}
+
+.nav > .nav-top-left > div{
+    margin-right: 20px;
+    font-size: 0.9em;
+}
+
+.phone{
+    color:blanchedalmond;
+}
+
+.email{
+    color:blanchedalmond;
+}
+
+.brand{
+    color:blanchedalmond;
+}
+
+.name{
+    position: relative;
+    height: 250px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.name-logo img{
+    width: 25%;
+    height:100%;
+    margin-bottom: 20px;
+    position:absolute;
+    top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 570px;
+    padding-right: 550px;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 10px;
+    padding-right: 3px;
+}
+
+.img-background{
+    height: 520px;
+    width:97%;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    position:relative;
+}
+
+.footer{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: rgb(43, 42, 42);
+    margin-top: 1.1rem;
+    padding:5.5rem;
+}
+
+.img-text-wrapper{
+    position: absolute;
+    top:0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    text-align: center;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: larger;
+ }
+
+.img-text-wrapper .subtitle{
+    transition:1s;
+    font-weight: 600;
+    color:transparent;
+}
+
+.img-text-wrapper:hover .subtitle{
+  font-weight: 600;
+  font-style: italic;
+  color:lightseagreen;
+}
+
+.item-wrapper{
+    position:relative;
+}
+
+.img-darken {
+    transition: 1s;
+    filter:brightness(10%);
+}
+
+.none1{
+  padding:0rem;
+  width:99%;
+  align-items: center;
+}
+
+.none2{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top:2px;
+    padding-bottom: 2px;
+    width:97%;
+}
+
+.logo-wrapper img{
+    width: 50%;
+    align-items: center;
+}
+

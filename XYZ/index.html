@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<hmtl>
+<head>
+    <meta charset="utf-8" />
+    <title>Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="container">
+      <div class="nav-top">
+        <div class="nav-top-left">
+            <div class="phone">
+               9486083500
+            </div>
+            <div class="email">
+                arpvsenthil@gmail.com
+            </div>
+        </div>
+        <div class="nav-top-right">
+            <div class="brand">
+            ABI RAJA
+            </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="name">
+        <div class="name-logo">
+            <img src="images/img(8).png">
+        </div>
+    </div>
+
+    <div class="content">
+        <div class="item-wrapper">
+          <div class="img-background" style="background-image: url(images/img\(6\).png);">    
+          </div>
+
+          <div class="img-text-wrapper">
+            <div class="subtitle">
+                Layer chickens are a special species of hens, which want to 
+                be raised from when they are one day old and they start 
+                laying eggs commercially from 18 to 19 weeks of age. 
+                They remain to lay eggs continuously till their 72 to 78 weeks 
+                of age. They can generate about one kg of eggs by consuming 
+                about 2.25 kg of food during their egg-laying period. 
+                To produce a hybrid egg layer, consider the different 
+                characteristics of cock and hen before breeding. 
+                There are different types of highly egg productive layer 
+                breeds available throughout the world.
+            </div>
+          </div>
+      
+        </div>
+
+        <div class="item-wrapper">
+         <div class="img-background" style="background-image: url(images/IMG\(3\).jpg);">
+         </div>
+
+         <div class="img-text-wrapper">
+            <div class="subtitle">
+                Eggs are laid by female animals of many different species, including 
+                birds, reptiles, amphibians, a few mammals, and fish, and many of 
+                these have been eaten by humans for thousands of years. Bird and 
+                reptile eggs consist of a protective eggshell, albumen (egg white), 
+                and vitellus (egg yolk), contained within various thin membranes. 
+                The most commonly consumed eggs are chicken eggs. Other poultry eggs 
+                including those of duck and quail also are eaten.
+            </div>
+          </div>
+        </div>
+      
+        <div class="item-wrapper">
+           <div class="img-background" style="background-image: url(images/img\(9\).jpg);">    
+           </div>
+           
+           <div class="img-text-wrapper">
+              <div class="subtitle">
+                Eggs are the official star VIP at our breakfast table 
+                — there are so many reasons why we love them. They're cheap, 
+                always versatile, and most of all, they're chock full of 
+                good-for-you protein, making them a fantastic choice to supercharge 
+                your morning. But while home cooks factor eggs into their shopping 
+                budget and nearly always enjoy their protein boost, 
+                some may be still searching for inspiration on new ways to regularly 
+                enjoy them. If you're looking to break out of your scrambled-eggs-and-bacon shell, 
+                you'll want to try one of these equally delicious and easy egg dishes.
+              </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="none1" >
+            
+        </div>
+          
+        <div class="none2">
+             
+        </div>
+
+        <div class="none3">
+
+        </div>
+    </div>
+   
+   </div>
+</body>
+<script>
+    const portfolioItems = document.querySelectorAll('.item-wrapper')
+
+    portfolioItems.forEach(portfolioItem => {
+        portfolioItem.addEventListener('mouseover', () => {
+            portfolioItem.childNodes[1].classList.add('img-darken');
+        })
+
+        portfolioItem.addEventListener('mouseout', () => {
+            portfolioItem.childNodes[1].classList.remove('img-darken');
+        })
+    })
+</script>
+</hmtl>
