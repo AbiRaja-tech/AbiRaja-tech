@@ -80,7 +80,7 @@ You can click the Preview link to take a look at your changes.
 ### 📈 GitHub Stats
  Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![Abi Raja :: Profile Stats](https://github-readme-stats.vercel.app/api?username=originalsidd&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Abi Raja :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiRaja-tech&layout=compact&theme=react&hide_border=true)
+![Abi Raja :: Profile Stats](https://github-readme-stats.vercel.app/api?username=AbiRaja-tech&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Abi Raja :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiRaja-tech&layout=compact&theme=react&hide_border=true)
 
 <!-- ![Abi Raja's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=AbiRaja-tech) -->
 
