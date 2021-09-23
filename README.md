@@ -20,25 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-### 💬 Contact Me
-
-  ---
-  
-<p align="left">
-  <a href="mailto: arrssekaran@gmail.com"><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="www.linkedin.com/in/abirajarajasivapathasekaran63a2921b7"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd"></a>
-  <a href="https://dev.to/originalsidd"><img height="32" alt="Reddit" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-  </a>
-  <a href="https://www.reddit.com/user/originalsidd"><img height="32" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/originalsidd"><img height="32" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/originalsidd"><img height="32" alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
-  </a>
-  
-</p>
-
 <br>
 
 ### 🛠  Tech Stack
@@ -102,4 +83,25 @@ You can click the Preview link to take a look at your changes.
 ![Abi Raja :: Profile Stats](https://github-readme-stats.vercel.app/api?username=AbiRaja-tech&show_icons=true&hide_border=true&theme=dark&count_private=true) | ![Abi Raja :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbiRaja-tech&layout=compact&theme=react&hide_border=true)
 
 <!-- ![Abi Raja's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=saisukesh04) -->
+
+<br>
+
+### 💬 Contact Me
+
+  ---
+  
+<p align="left">
+  <a href="mailto: arrssekaran@gmail.com"><img height="32" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/abirajarajasivapathasekaran63a2921b7"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="originalsidd"></a>
+  <a href="https://dev.to/originalsidd"><img height="32" alt="Reddit" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/originalsidd"><img height="32" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/originalsidd"><img height="32" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/originalsidd"><img height="32" alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+  </a>
+  
+</p>
 
