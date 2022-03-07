@@ -5,7 +5,7 @@
 </h2>
 <br>
 <div align="center>
-     <img src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width = 300 breadth = 600>       
+     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width = 300 breadth = 600>       
 <div>
 ### 🧑‍💻 About Me
 
