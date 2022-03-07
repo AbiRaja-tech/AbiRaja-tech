@@ -4,7 +4,9 @@
   <i>Trying Something Innovative...Wanna help!!!</i>
 </h2>
 <br>
-
+<div align="center>
+     <img src="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width = 300 breadth = 600>       
+<div>
 ### 🧑‍💻 About Me
 
 - 👋 I’m interested in **Machine Learning, Data Science and IoT**
