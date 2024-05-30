@@ -13,7 +13,7 @@
 - 👀 Getting the glimpse of **MERN Stack Development**
 - 🌱 I’m currently learning **Machine learing with AWS and AZURE** 
 - 💞️ I’m looking to collaborate on **Industrial Projects**
-- 📫 How to reach me **<a id="profile-url" href="www.linkedin.com/in/abirajaraja">S ABI RAJARAJA SIVAPATHA SEKARAN</a>-->LinkedIn**
+- 📫 How to reach me **<a id="profile-url" href="www.linkedin.com/in/abirajaraja/">S ABI RAJARAJA SIVAPATHA SEKARAN</a>-->LinkedIn**
 
 <!---
 AbiRaja-tech/AbiRaja-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
